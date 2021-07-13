@@ -1,0 +1,9 @@
+C:\Users\Alper\Desktop\StajProje3\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Alper\Desktop\StajProje3\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Alper\Desktop\StajProje3\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Alper\Desktop\StajProje3\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\Alper\Desktop\StajProje3\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Alper\Desktop\StajProje3\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Alper\Desktop\StajProje3\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\StajProje3\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Alper\Desktop\StajProje3\Core\obj\Debug\netcoreapp3.1\Core.pdb
